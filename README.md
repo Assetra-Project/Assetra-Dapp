@@ -42,96 +42,33 @@ By lowering the barrier to entry, these tokenized bonds can be accessed by a glo
 - **React (TSX)** – TypeScript support for better development  
 - **Framer Motion** – Smooth animations and transitions  
 - **React Icons** – Easy, scalable icon support  
-- **Tailwind CSS** *(optional)* – Utility-first styling
+- **Tailwind CSS**  – Utility-first styling
+- **Solidity** - Smart Contract programming language
+-  **Hardhat** - Framework for testing and deploying Smart Contracts
+-  **Hedera Smart Contract Service** - Smart Contract service by Hedera
 
 ---
 
-## ✅ Prerequisites
 
-Before you begin, make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (v16 or later)  
-- [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
-
----
-
-## 📦 Installation
-
-Clone the repository and install the dependencies:
-
-```bash
-git clone https://github.com/your-username/assetra-landing.git
-cd assetra-landing
-npm install
-# or
-yarn install
-🧪 Development
-To start the development server:
-
-bash
-Copy
-Edit
-npm run dev
-# or
-yarn dev
-The project will run at:
-👉 http://localhost:3000
-
-🛠️ Build for Production
-To build and run a production version:
-
-bash
-Copy
-Edit
-npm run build
-npm start
-# or
-yarn build
-yarn start
-🚀 Deployment (Vercel Recommended)
-Deploy your project easily on Vercel:
-
-Push your code to GitHub
-
-Go to vercel.com and log in with GitHub
-
-Click “New Project”
-
-Select the Assetra repo
-
-Configure (Next.js is detected automatically)
-
-Click “Deploy”
-
-🎉 You’ll get a live URL instantly!
-
-#🧼 Linting & Formatting
-To check code quality using ESLint:
-
-Copy
-Edit
-npm run lint
-# or
-yarn lint
-
----
-
-##👥 Contributors
+## 👥 Contributors
 Built with ❤️ by the Assetra Team:
 
-Janice Gathoga
+**Janice Gathoga**
 
-Simon Githae
+**Simon Githae**
 
 Feel free to fork, build on, or contribute!
 
-👐 Open Source
+## 👐 Open Source
 This project is open-source under the MIT License.
 You are free to use, modify, and share it. Contributions are welcome via pull requests or issues.
 
-📫 Contact
+## 📫 Contact
 Have questions, feedback, or partnership ideas?
-📩 Email us at: janicegathoga@gmail.com
 
-Invest smart. Own with confidence.
-Build your financial future — with Assetra.
+📩 Email us at: janicegathoga@gmail.com
+📩 Email us at: githaesimon29@gmail.com
+
+
+## Invest smart. Own with confidence.
+## Build your financial future — with Assetra.
